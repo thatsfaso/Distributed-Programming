@@ -1,5 +1,3 @@
-package it.unisa.studenti;
-
 public class Singleton {
     private static Singleton instance;
 
