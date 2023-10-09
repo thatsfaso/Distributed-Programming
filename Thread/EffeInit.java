@@ -1,5 +1,3 @@
-package it.unisa.studenti;
-
 public class EffeInit extends Thread{
     private static int start;
     private int dim;
