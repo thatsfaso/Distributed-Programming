@@ -1,5 +1,3 @@
-package it.unisa.studenti;
-
 public class Something {
     private Something() {}
 
