@@ -1,5 +1,3 @@
-package it.unisa.studenti;
-
 import java.rmi. *;
 import java.rmi.server.UnicastRemoteObject;
 import java.util.logging.Logger;
